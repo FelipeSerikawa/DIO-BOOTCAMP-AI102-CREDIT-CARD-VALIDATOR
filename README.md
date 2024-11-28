@@ -1,3 +1,5 @@
+Projeto baseado no bootcamp da DIO sobre a certificação AI-102 da Microsoft
+
 Necessário adicionar os parâmetros de configuração do Azure Blob Storage e Document Intelligence do Azure.
 
 Criar um arquivo .env na raiz do projeto com os parâmetros:
